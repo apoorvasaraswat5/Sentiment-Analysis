@@ -2,9 +2,7 @@
 
 Sentiment analysis is the method of identifying emotions from a sentence based on the usage of words by a person. The
 emotions can be classified as positive, neutral, or negative. The social media is flooded with people voicing their opinions
-on things around them every day. This paper focuses on the opinions of people on Twitter about various products, and then
-top features are displayed in the positive and negative classifications, so that the companies would know in what features
-their products lag, and in what features the products are being complimented by their users/customers.
+on things around them every day. 
 
 In twitter there are a few challenges: the maximum word limit of a “tweet” is of 140 characters, hence the public tends to
 use slangs or short-forms or emoticons to express their views. To analyse the tweets, we need to do pre-processing, that
